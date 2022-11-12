@@ -10,4 +10,3 @@ for i in range(10):
 
 print("Vector Size   = " + str(vec.size()))
 print("Vector Empty? = " + str(vec.is_empty()))
-
