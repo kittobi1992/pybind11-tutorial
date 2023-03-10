@@ -34,3 +34,4 @@
 cython_examples/01_get_started/vecint.cpp
 .vscode/
 pybind_examples/01_get_started/build
+pybind_examples/02_interpreter_embedding/build
